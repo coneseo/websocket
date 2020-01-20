@@ -1,3 +1,4 @@
+
 spring:
   devtools:
     livereload:
@@ -6,3 +7,5 @@ spring:
       enabled: false
   freemarker:
     cache: false
+server:
+  port: 8118
